@@ -24,7 +24,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/omsmith/ims-lti.git"
+    "url": "git+https://github.com/omsmith/ims-lti.git"
   },
   "bugs": {
     "url": "http://github.com/omsmith/ims-lti/issues"
@@ -47,5 +47,32 @@
     "mocha-multi": "^0.6.0",
     "redis": "^0.12.1",
     "should": "^4.6.1"
-  }
+  },
+  "gitHead": "a00afa5736b5e7fe4d2dfc8a844ccd8f49c9248c",
+  "homepage": "https://github.com/omsmith/ims-lti#readme",
+  "_id": "ims-lti@3.0.2",
+  "_shasum": "8a7381c622ab813be3bf18a5aa24ebca8cb2860b",
+  "_from": "ims-lti@>=3.0.2 <4.0.0",
+  "_npmVersion": "2.14.7",
+  "_nodeVersion": "4.2.1",
+  "_npmUser": {
+    "name": "omsmith",
+    "email": "owen@omsmith.ca"
+  },
+  "dist": {
+    "shasum": "8a7381c622ab813be3bf18a5aa24ebca8cb2860b",
+    "tarball": "https://registry.npmjs.org/ims-lti/-/ims-lti-3.0.2.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "omsmith",
+      "email": "owen@omsmith.ca"
+    },
+    {
+      "name": "davidkosub",
+      "email": "dave@davidkosub.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/ims-lti/-/ims-lti-3.0.2.tgz"
 }

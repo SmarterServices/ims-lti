@@ -6,13 +6,13 @@ lib-cov
 *.out
 *.pid
 *.gz
+*.idea
 
 pids
 logs
 results
 
 node_modules
-lib
 coverage
 
 ims-lti*.tgz
