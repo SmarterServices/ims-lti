@@ -1,6 +1,6 @@
 {
   "name": "@smarterservices/ims-lti",
-  "version": "3.0.4",
+  "version": "3.0.5",
   "description": "Module for building an LTI Tool Provider and accept LTI launch requests",
   "private": false,
   "author": {
@@ -8,6 +8,10 @@
     "email": "james@courseshark.com"
   },
   "contributors": [
+    {
+      "name": "Jason Fill",
+      "email": "jason@smarterservices.com"
+    },
     {
       "name": "Owen Smith",
       "email": "owen@omsmith.ca"
@@ -25,10 +29,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/omsmith/ims-lti.git"
+    "url": "git+https://github.com/SmarterServices/ims-lti"
   },
   "bugs": {
-    "url": "http://github.com/omsmith/ims-lti/issues"
+    "url": "http://github.com/SmarterServices/ims-lti/issues"
   },
   "main": "./lib/ims-lti",
   "scripts": {
@@ -50,21 +54,12 @@
     "should": "^4.6.1"
   },
   "gitHead": "a00afa5736b5e7fe4d2dfc8a844ccd8f49c9248c",
-  "homepage": "https://github.com/omsmith/ims-lti#readme",
-  "_id": "ims-lti@3.0.2",
-  "_shasum": "8a7381c622ab813be3bf18a5aa24ebca8cb2860b",
-  "_from": "ims-lti@>=3.0.2 <4.0.0",
-  "_npmVersion": "2.14.7",
-  "_nodeVersion": "4.2.1",
-  "_npmUser": {
-    "name": "omsmith",
-    "email": "owen@omsmith.ca"
-  },
-  "dist": {
-    "shasum": "8a7381c622ab813be3bf18a5aa24ebca8cb2860b",
-    "tarball": "https://registry.npmjs.org/ims-lti/-/ims-lti-3.0.2.tgz"
-  },
+  "homepage": "https://github.com/SmarterServices/ims-lti#readme",
   "maintainers": [
+    {
+      "name": "jasonfill",
+      "email": "jason@smarterservices.com"
+    },
     {
       "name": "omsmith",
       "email": "owen@omsmith.ca"
@@ -75,5 +70,4 @@
     }
   ],
   "directories": {},
-  "_resolved": "https://registry.npmjs.org/ims-lti/-/ims-lti-3.0.2.tgz"
 }
