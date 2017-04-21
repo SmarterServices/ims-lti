@@ -1,18 +1,16 @@
 # ims-lti
 
-[![Build Status](https://travis-ci.org/omsmith/ims-lti.svg?branch=master)](https://travis-ci.org/omsmith/ims-lti) [![Coverage Status](https://coveralls.io/repos/omsmith/ims-lti/badge.png)](https://coveralls.io/r/omsmith/ims-lti)
-
 This is a nodejs library used to help create Tool Providers for the
 [IMS LTI standard](http://www.imsglobal.org/lti/index.html). Tool Consumer implmentation is left as an excersise to the reader :P
 
 ## Install
 ```
-npm install ims-lti --save
+npm install @smarterservices/ims-lti --save
 ```
 
 To require the library into your project
 ```coffeescript
-require 'ims-lti'
+require '@smarterservices/ims-lti'
 ```
 
 ## Supported LTI Versions
