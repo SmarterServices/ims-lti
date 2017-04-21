@@ -1,7 +1,8 @@
 {
-  "name": "ims-lti",
+  "name": "@smarterservices/ims-lti",
   "version": "3.0.4",
   "description": "Module for building an LTI Tool Provider and accept LTI launch requests",
+  "private": false,
   "author": {
     "name": "James Rundquist",
     "email": "james@courseshark.com"
